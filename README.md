@@ -4,7 +4,7 @@
 
 Source Code dari latihan1.py: 
 
-![1](https://user-images.githubusercontent.com/46509513/52943413-aa361b00-339f-11e9-8470-c70252b3dce4.png)
+![1](https://user-images.githubusercontent.com/46509513/52953253-8a135580-33b9-11e9-9bf5-654bd785618b.png)
 
 Penjelasan alur program : 
 1. Import random digunakan untuk memasukkan modul random ke dalam program latihan1.py. Karena nantinya kita akan menggunakan fungsi random untuk menampilkan jumlah ke-N(Jumlah diinputkan oleh user misalnya nilai N adalah 10 maka akan menampilkan bilangan acak sebanyak 10x).
