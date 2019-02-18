@@ -10,13 +10,10 @@ Penjelasan alur program :
 1. Import random digunakan untuk memasukkan modul random ke dalam program latihan1.py. Karena nantinya kita akan menggunakan fungsi random untuk menampilkan jumlah ke-N(Jumlah diinputkan oleh user misalnya nilai N adalah 10 maka akan menampilkan bilangan acak sebanyak 10x).
 2. Pada line ke-3 user diminta menginputkan bilangan yang mereka inginkan untuk mengisi nilai N.
 3. Untuk line ke-4 itu hanya untuk penomoran saja nantinya.
-4. Line ke-5 itu merupakan fungsi for atau bisa dibilang fungsi perulangan. 
-->For x in range(0,n)
-->X adalah index dari perulangan tersebut.
-->Range(0,n) artinya dimulai dari 0 sampai N(Inputan user, misalnya inputannya adalah 10 maka dimulai 0 sampai dengan 10).
-5. Line ke-6 nilai i akan menampung bilangan secara acak diantara 0,0 sampai dengan 0,5.
-6. Untuk a+=1 ini untuk penomoran nantinya.
-7. Untuk Line ke-8, akan menampilkan hasil bilangan yang telah dipilih secara acak pada variabel i tadi.
+4. Line ke-5 itu merupakan fungsi for atau bisa dibilang fungsi perulangan. "For x in range(0,n)", X adalah index dari perulangan tersebut. Range(0,n) artinya dimulai dari 0 sampai N(Inputan user, misalnya inputannya adalah 10 maka dimulai 0 sampai dengan 10).
+5. Line ke-6 nilai "i" akan menampung bilangan secara acak diantara 0,0 sampai dengan 0,5.
+6. Untuk "a+=1" ini untuk penomoran nantinya.
+7. Untuk Line ke-8, akan menampilkan hasil bilangan yang telah dipilih secara acak pada variabel "i" tadi.
 
 Hasil eksekusi dari program : 
 
